@@ -1,4 +1,9 @@
 Hello world!!!
-version Developer
-`
-by Rafael Ceballo
+version Developer`
+
+Collaborators:
+Baldwin Martinez
+
+Author:
+Rafael Ceballo
+
